@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Pizza Counter
 
 This is a simple counter app that uses react class based component for state management
 
